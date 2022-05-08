@@ -7,8 +7,8 @@ As I got my Audi A6 with keyless go, I usually tend to loosen my keys inside the
 
 <p align="center">
   <img 
-    width="800"
-    height="800"
+    width="600"
+    height="600"
     src="https://github.com/thomaszipf/3dwrx-Audi-A6-C7-Ash-Tray-Replacement-V2/blob/main/Images/Audi-A6-C7-Ash-Tray-Replacement-V2.PNG"
   >
 </p>
@@ -16,8 +16,8 @@ As I got my Audi A6 with keyless go, I usually tend to loosen my keys inside the
 
 <p align="center">
   <img 
-    width="800"
-    height="800"
+    width="600"
+    height="600"
     src="https://github.com/thomaszipf/3dwrx-Audi-A6-C7-Ash-Tray-Replacement-V2/blob/main/Images/Audi-A6-C7-Ash-Tray-Replacement-V2-2.PNG"
   >
 </p>
