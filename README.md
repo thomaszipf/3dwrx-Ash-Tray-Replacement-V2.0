@@ -1,12 +1,8 @@
-# 3dwrx-Audi-A6-C7-Ash-Tray-Replacement-V2
+# 3dwrx-Ash-Tray-Replacement-V2.0
 
-Link to this product on Thingiverse:
-https://www.thingiverse.com/thing:3431360
-
-
-**Why this design?**
-
-As I got my Audi A6 with keyless go, I usually tend to loosen my keys inside the car. Also, there have been some annoying processes like using a card to enter the parking lot area. Since I had to deal with a used car being equipped with a ash tray, I decided to go and talk to a couple of car owners in a german forum (motor-talk, thanks to those guys for the input) and we made a study of what is needed to be done. I then came along with this particular design.
+## Purpose of 3dwrx-Ash-Tray-Replacement-V2.0
+This design is for Audi A6 C7, and the idea behind it is better organization. Since the car has keyless start I tend to forget where I used to put the keys inside the car. Additionally, when I need to keep a card from a parking lot area, you need a place where to put it and be sure that you can find it when you need it again.
+Since the car I have is already equipped with an ash tray that I don't use, I decided to go and talk to a couple of car owners on a german forum "Motor-talk". The guys from that forum gave me a great input, we made a study what's needed to be done and we came to this particular design.
 
 <p align="center">
   <img 
@@ -26,14 +22,21 @@ As I got my Audi A6 with keyless go, I usually tend to loosen my keys inside the
 </p>
 
 
-**What are the core features?**
+## What are the core features?
 
-• just insert or remove smartphone and coin holder on demand
+• easily insert or remove smartphone (fixed via magnets, old design was using pins)
 
-• holds the car key
+- easily insert or take coins from the holder
 
-• holds your smartphone (fixed via magnets, old design was using pins)
+• dedicated place for the car key
 
-• Holds any type of cards
+• space for any type of cards
 
-• Holds (european) coins, may work for other currency’s as well
+• space for coins is us (European) coins, may work for other currency’s as well
+
+
+## How to setup:
+There is nothing specific about this case. Just print the design and you can organize your space much better.
+
+## Disclaimer:
+However, since most of the application is depending on the assembly, the chosen components other then the mount, the level of adjustment from your side, the print settings as well as the particular environment you want to use the solution, it might be good to take it with a grain of salt. I‘m not granting any warranty nor taking any responsibility for this solution to work in your case. Please check upon using if the solution can work for you in your particular use case following own steps for qualification such as checking the setup and components before using and considering and checking own laws and regulations before bringing the solution into action.
