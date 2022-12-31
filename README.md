@@ -1,6 +1,6 @@
-# 3dwrx-Ash-Tray-Replacement-V2.0
+# 3dwrx-ash-tray-replacement-v2.0
 
-## Purpose of 3dwrx-Ash-Tray-Replacement-V2.0
+## Purpose of 3dwrx-ash-tray-replacement-v2.0
 This design is for Audi A6 C7, and the idea behind it is better organization. Since the car has keyless start I tend to forget where I used to put the keys inside the car. Additionally, when I need to keep a card from a parking lot area, you need a place where to put it and be sure that you can find it when you need it again.
 Since the car I have is already equipped with an ash tray that I don't use, I decided to go and talk to a couple of car owners on a german forum "Motor-talk". The guys from that forum gave me a great input, we made a study what's needed to be done and we came to this particular design.
 
